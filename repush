@@ -1,5 +1,10 @@
 #!/bin/sh
-git reset --hard c376ae434e79dce6363aa2f7b34bbe316a9a8416
+if [ "$1" ]
+then
+   git reset --hard $1
+else
+   git reset --hard c376ae434e79dce6363aa2f7b34bbe316a9a8416
+fi
 git push --force
 git reset --hard HEAD@{1}
 git push
