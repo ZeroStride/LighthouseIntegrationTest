@@ -11,3 +11,6 @@ This repository is wired in to this (public) [Lighthouse project](http://gamecla
 When the post-receive hook sees a message in the format:
 `Merged branch 'initials/bug-#'`
 It should mark the corresponding bug as 'fixed'.
+
+### To Do's
+When Uttu sees a to do message in a diff it should make a ticket.
