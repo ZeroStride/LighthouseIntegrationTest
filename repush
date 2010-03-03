@@ -9,4 +9,4 @@ git push --force
 git reset --hard HEAD@{1}
 git push
 
-# TODO: I should really do something about the dead squid.
+# TODO: I should really do something about the dead squid. For real.

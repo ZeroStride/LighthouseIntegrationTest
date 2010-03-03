@@ -6,8 +6,11 @@ The 'repush' script first resets the local repository to the first commit, then 
 
 ### Lighthouse Test Project
 This repository is wired in to this (public) [Lighthouse project](http://gameclay.lighthouseapp.com/projects/47141-workflow-test/)
-TODO: Look another TODO!
+
 ### Bug Fix Syntax
 When the post-receive hook sees a message in the format:
 `Merged branch 'initials/bug-#'`
 It should mark the corresponding bug as 'fixed'.
+
+### To Do's
+When Uttu sees a to do message in a diff it should make a ticket.
