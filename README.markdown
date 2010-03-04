@@ -14,3 +14,6 @@ It should mark the corresponding bug as 'fixed'.
 
 ### To Do's
 When Uttu sees a to do message in a diff it should make a ticket.
+
+## OH NOEZ
+Some developer made some changes in a feature branch.
