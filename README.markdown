@@ -16,4 +16,4 @@ It should mark the corresponding bug as 'fixed'.
 When Uttu sees a to do message in a diff it should make a ticket.
 
 ## OH NOEZ
-Some developer made some changes in a feature branch.
+Some developer made some changes in a feature branch. Unfortunately these changes kind of stink, so this branch won't get merged in.
